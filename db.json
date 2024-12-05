@@ -2,22 +2,22 @@
   "etudiants": [
     {
       "id": 1,
-      "nom": "Elanaami",
-      "prenom": "Mohamed",
+      "nom": "Dahmad",
+      "prenom": "Hanota",
       "note": 18,
       "date": "2006/06/26"
     },
     {
       "id": 2,
-      "nom": "Anaami",
-      "prenom": "Ahmed",
+      "nom": "Si",
+      "prenom": "Brahim",
       "note": 17,
       "date": "2006/08/26"
     },
     {
       "id": 3,
-      "nom": "Lanaami",
-      "prenom": "Younes",
+      "nom": "LKhal",
+      "prenom": "rojola",
       "note": 18,
       "date": "2007/06/26"
     }
