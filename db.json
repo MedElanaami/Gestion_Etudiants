@@ -1,0 +1,25 @@
+{
+  "etudiants": [
+    {
+      "id": 1,
+      "nom": "Elanaami",
+      "prenom": "Mohamed",
+      "note": 18,
+      "date": "2006/06/26"
+    },
+    {
+      "id": 2,
+      "nom": "Anaami",
+      "prenom": "Ahmed",
+      "note": 17,
+      "date": "2006/08/26"
+    },
+    {
+      "id": 3,
+      "nom": "Lanaami",
+      "prenom": "Younes",
+      "note": 18,
+      "date": "2007/06/26"
+    }
+  ]
+}

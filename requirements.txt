@@ -1,0 +1,2 @@
+# npm install --save bootstrap
+# npm install --save json-server
